@@ -1,16 +1,6 @@
 module.exports = () => {
-<<<<<<< HEAD
   return (words) => {
-    const checkIfTwoWordsSame = (firstWord, secondWord) => {
-      const firstWordArr = Array.sort(firstWord.split(''));
-      const secondWordArr = Array.sort(secondWord.split(''));
 
-      return firstWordArr === secondWordArr;
-      
-    };
-
-    checkIfTwoWordsSame(words[0], words[1]);
-=======
   const result = [];
   const checkIfSame = (first, second) => {
     const firstArr = Array.sort(first.split(''));
@@ -25,6 +15,6 @@ module.exports = () => {
   };
   return (words) => {
       checkIfSame(words[0], words[1]);
->>>>>>> Changed some implementation to find words that have same letters
   };
 }
+};
