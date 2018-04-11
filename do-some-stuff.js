@@ -1,3 +1,4 @@
+
 module.exports = () => {
   return (words) => {
     const checkIfTwoWordsSame = (firstWord, secondWord) => {
@@ -9,5 +10,6 @@ module.exports = () => {
     };
 
     checkIfTwoWordsSame(words[0], words[1]);
+
   };
 }
