@@ -9,4 +9,5 @@ const myFunction = () => {
   const doSomeMoreStuff = _doSomeMoreStuff();
   doSomeMoreStuff.doit();
   /// This comment is only on the master now
+  //MASTER MASTER MASTER
 };
