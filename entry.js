@@ -8,4 +8,5 @@ const myFunction = () => {
   doSomeStuff(['sole', 'lose']);
   const doSomeMoreStuff = _doSomeMoreStuff();
   doSomeMoreStuff.doit();
+  /// This comment is only on the master now
 };
