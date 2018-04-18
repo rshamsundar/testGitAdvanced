@@ -1,11 +1,8 @@
 This is a test file. Only used for testing git advanced commands.
 
 This is totally nonsense. I should not add it here
-<<<<<<< HEAD:Pallavi.txt
-=======
 
 
 Hey there!!!
 
 I will still update this file
->>>>>>> Added a comment to Rshmi.txt:Rashmi.txt
